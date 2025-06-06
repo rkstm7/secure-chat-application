@@ -55,3 +55,7 @@ A **Secure Chatting Application** built using **PHP**, **JavaScript**, and **MyS
 
 5. Visit http://localhost/secure-chatting-app in your browser
 ```
+
+![Alt Text](image1.png)
+![Alt Text](image2.png)
+![Alt Text](image3.png)
